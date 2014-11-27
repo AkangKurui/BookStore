@@ -18,7 +18,7 @@ namespace BookStoreWeb
             BookStoreQuery = new BookStoreQuery();
 
             Dispatcher.ScanInstance(BookStoreQuery);
-            Dispatcher.ScanInstance(new BookStoreAggregate());
+            Dispatcher.ScanInstance(new BookStoreAggregate()); 
         }
     }
 }
