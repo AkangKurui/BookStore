@@ -15,7 +15,7 @@
     <AssemblyName>BookStoreAPI</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <DeployManagedRuntimeVersion>v4.0</DeployManagedRuntimeVersion>
-    <DeployIisAppPath>bookapi.dokuku.net</DeployIisAppPath>
+    <DeployIisAppPath>book-api.dokuku.net</DeployIisAppPath>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort>443</IISExpressSSLPort>
     <IISExpressAnonymousAuthentication>enabled</IISExpressAnonymousAuthentication>
